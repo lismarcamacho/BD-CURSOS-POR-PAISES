@@ -16,4 +16,5 @@ del curso intermedio de Santander Open Academy
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/0b69e0a9-fda5-4ce4-b932-1581b388d8f4" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/ec0421a7-d78a-45c5-b8b2-aff7216ae9e7" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/5d0375d2-d5ce-499b-b1f5-5e4341791bf1" />
 
