@@ -9,3 +9,9 @@ del curso intermedio de Santander Open Academy
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/a8c8f963-8350-41a8-b49e-47911830a55a" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/2cc8532b-06ef-49f8-920a-285347b74d5f" />
+
+2. C CONVERTIR LA COLUMNA DUREACION EN TIPO TEXTO
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/ef287e8d-cf2f-42e6-b8b9-d9b948ffce8c" />
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/0b69e0a9-fda5-4ce4-b932-1581b388d8f4" />
